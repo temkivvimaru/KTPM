@@ -1,0 +1,72 @@
+[
+    {
+        "username": "admin_01",
+        "password": "Admin@123",
+        "fullname": "Nguyễn Văn Quản Trị",
+        "email": "admin01@example.com",
+        "status": "active"
+    },
+    {
+        "username": "admin.super",
+        "password": "Admin@456",
+        "fullname": "Phạm Hoàng Super Admin",
+        "email": "admin.super@example.com",
+        "status": "active"
+    },
+    {
+        "username": "user_01",
+        "password": "User@123",
+        "fullname": "Trần Văn A",
+        "email": "user01@example.com",
+        "status": "active"
+    },
+    {
+        "username": "user.02",
+        "password": "User@456",
+        "fullname": "Lê Thị B",
+        "email": "user02@example.com",
+        "status": "active"
+    },
+    {
+        "username": "testuser_03",
+        "password": "Test@789",
+        "fullname": "Ngô Minh C",
+        "email": "test03@example.com",
+        "status": "active"
+    },
+    {
+        "username": "locked_01",
+        "password": "Lock@111",
+        "fullname": "Phạm Văn Khóa",
+        "email": "locked01@example.com",
+        "status": "locked"
+    },
+    {
+        "username": "locked.user",
+        "password": "Lock@222",
+        "fullname": "Đỗ Thị Ngưng Hoạt Động",
+        "email": "locked02@example.com",
+        "status": "locked"
+    },
+    {
+        "username": "pending_01",
+        "password": "Wait@123",
+        "fullname": "Trịnh Văn Chờ Duyệt",
+        "email": "pending01@example.com",
+        "status": "pending"
+    },
+    {
+        "username": "mod_user",
+        "password": "Mod@888",
+        "fullname": "Đừng học ngành này",
+        "email": "mod@example.com",
+        "status": "active"
+    },
+    {
+        "username": "guest_01",
+        "password": "Guest@555",
+        "fullname": "Khách Bạn G",
+        "email": "guest01@example.com",
+        "status": "active"
+    }
+]
