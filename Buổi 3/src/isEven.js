@@ -2,5 +2,10 @@ export function isEven(n) {
     if (typeof n !== "number") {
         throw new Error("Invalid input");
     }
-    return n % 2 === 0;
+
+    if (n % 2 === 0) {
+        return true;  
+    } else {
+        return false; 
+    }
 }
