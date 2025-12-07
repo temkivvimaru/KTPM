@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const BASE_URL = "https://ktpm-temkiv.cloud/login.php";
+const BASE_URL = "";
 
 describe("TEST API LOGIN", () => {
 
